@@ -11,7 +11,7 @@
 ### Repositorios (?)
 * [frontend app](http://hyperlinkToGithubOrGitlab)
 * [backend app](http://hyperlinkToGihubOrGitlab)
-*Nota*: si utiliza un monorepo, indicar un solo link con fullstack app.
+(*Nota*: si utiliza un monorepo, indicar un solo link con fullstack app).
 
 
 
