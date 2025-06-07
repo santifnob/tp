@@ -5,8 +5,8 @@
 * legajo - Apellido(s), Nombre(s)
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [FE APP](https://github.com/santifnob/FE-app)
+* [BE APP](https://github.com/santifnob/BE-app)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
