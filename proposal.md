@@ -29,11 +29,11 @@ Regularidad:
 |CRUD simple|1. CRUD TipoCarga<br>2.CRUD Conductor<br>3.CRUD Recorrido<br>4.CRUD Tren<br>5. CRUD CategoriaDenuncia|
 |CRUD dependiente|1. CRUD Licencia {depende de} CRUD Conductor<br>2. CRUD Estado {depende de} CRUD Tren<br>3. CRUD Denuncia {depende de} CRUD CategoriaDenuncia|
 |Listado<br>+<br>detalle| 1. Listar los conductores con licencia vigente<br>2. Listar los conductores con licencia vigente (detalle)<br>3. Listar cargas de un tipo (detalle)<br>4. Listar recorridos ordenados por kilometros (detalle)<br>5. Listar codigo, nombre y cantidad por cada una de las cargas que fueron transportadas en un rango de fechas dado <br>6. Cantidad de kilometros totales recorridos por cada uno de los trenes. Por cada tren mostrar su codigo y modelo|
-|CUU/Epic|1. Programar viaje<br>2. Modificar viaje|
+|CUU/Epic|1. Crear viaje<br>2. Crear conductor|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD|1. CRUD TipoCarga<br>2.CRUD Conductor<br>3.CRUD Recorrido<br>4.CRUD Estado<br>5. CRUD CategoriaDenuncia<br>6. CRUD Licencia<br>7. CRUD Tren<br>8. CRUD Denuncia|
-|CUU/Epic|1. Programar viaje<br>2. Modificar viaje<br>3. Generar denuncia<br>4. Asignar conductor|
+|CUU/Epic|1. Crear viaje<br>2. Crear conductor<br>3. Generar denuncia<br>4. Asignar conductor|
