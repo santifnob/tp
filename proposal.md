@@ -26,8 +26,8 @@ El presente proyecto tiene como objetivo desarrollar una solución de software p
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD tipoCarga<br>2.CRUD conductor<br>3.CRUD recorrido<br>4.CRUD tren<br>5. CRUD CategoriaDenuncia|
-|CRUD dependiente|1. CRUD licencia {depende de} CRUD conductor<br>2. CRUD estadoTren {depende de} CRUD Tren<br>3. CRUD observacion {depende de} CRUD categoriaDenuncia|
+|CRUD simple|1. CRUD tipoCarga<br>2.CRUD conductor<br>3.CRUD recorrido<br>4.CRUD tren<br>5. CRUD categoriaDenuncia|
+|CRUD dependiente|1. CRUD licencia {depende de} CRUD conductor<br>2. CRUD estadoTren {depende de} CRUD tren<br>3. CRUD observacion {depende de} CRUD categoriaDenuncia|
 |Listado<br>+<br>detalle| 1. Listar los conductores con licencia vigente<br>2. Listar los conductores con licencia vigente (detalle)<br>3. Listar cargas de un tipo (detalle)<br>4. Listar recorridos ordenados por kilometros (detalle)<br>5. Listar codigo, nombre y cantidad por cada una de las cargas que fueron transportadas en un rango de fechas dado <br>6. Cantidad de kilometros totales recorridos por cada uno de los trenes. Por cada tren mostrar su codigo y modelo|
 |CUU/Epic|1. Gestion de viajes<br>2. Gestion de conductores y licencias|
 
@@ -35,5 +35,5 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD|1. CRUD tipoCarga<br>2.CRUD conductor<br>3.CRUD recorrido<br>4.CRUD tren<br>5. CRUD CategoriaDenuncia<br>6. estadoTren<br>7. licencias<br>8. observacion<br>9. carga<br>10. lineaCarga<br>11. viaje|
+|CRUD|1. CRUD tipoCarga<br>2.CRUD conductor<br>3.CRUD recorrido<br>4.CRUD tren<br>5. CRUD categoriaDenuncia<br>6. estadoTren<br>7. licencia<br>8. observacion<br>9. carga<br>10. lineaCarga<br>11. viaje|
 |CUU/Epic|1. Gestion de viajes<br>2. Gestion de conductores y licencias<br>3. Generar observaciones<br>4. Gestión de Trenes, Estados y Cargas|
