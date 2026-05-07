@@ -35,5 +35,5 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD|1. CRUD tipoCarga<br>2.CRUD conductor<br>3.CRUD recorrido<br>4.CRUD tren<br>5. CRUD categoriaDenuncia<br>6. estadoTren<br>7. licencia<br>8. observacion<br>9. carga<br>10. lineaCarga<br>11. viaje|
+|CRUD|1. CRUD tipoCarga<br>2.CRUD conductor<br>3.CRUD recorrido<br>4.CRUD tren<br>5. CRUD categoriaDenuncia<br>6. CRUD estadoTren<br>7. CRUD licencia<br>8. CRUD observacion<br>9. CRUD carga<br>10. CRUD lineaCarga<br>11. CRUD viaje|
 |CUU/Epic|1. Gestion de viajes<br>2. Gestion de conductores y licencias<br>3. Generar observaciones<br>4. Gestión de Trenes, Estados y Cargas|
